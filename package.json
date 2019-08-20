@@ -1,0 +1,23 @@
+{
+  "name": "cp211x-hid-uart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "AGPL",
+  "dependencies": {
+    "@types/bitwise": "^2.0.0",
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.7.2",
+    "@types/node-hid": "^0.7.2",
+    "bitwise": "^2.0.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "node-hid": "^0.7.9",
+    "typescript": "^3.5.3"
+  }
+}
