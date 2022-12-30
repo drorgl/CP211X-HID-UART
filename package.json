@@ -16,7 +16,7 @@
     "@types/node-hid": "^0.7.2",
     "bitwise": "^2.0.3",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-hid": "^0.7.9",
     "typescript": "^3.5.3"
   }
